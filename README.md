@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">👋 Привет, я Rafael Shupak</h1>
 
-<!--
-**opression/opression** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧩 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Меня зовут **Rafael Shupak**, **opression**.  
+Я работаю в двух направлениях:
+
+- 🎨 **Дизайн** — создаю эстетичные и продуманные интерфейсы.  
+- 💻 **Программирование** — превращаю макеты в живой, работающий код.  
+
+---
+
+### ⚙️ Стек технологий
+
+| Направление | Инструменты |
+|-------------|-------------|
+| **Frontend** | JavaScript, Tailwind CSS |
+| **Backend**  | Node.js, Python, PostgreSQL |
+| **Дизайн**   | Figma, Adobe Photoshop, Illustrator |
+
+---
+
+### 📫 Контакты
+
+- Telegram: [@opression](https://t.me/opression)  
+- GitHub: [github.com/opression](https://github.com/opression)  
+- Email: rafaelsupak532@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Design-Figma-blue?style=flat-square&logo=figma" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/Sport-Functional-FF6B6B?style=flat-square" />
+</p>
