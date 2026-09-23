@@ -26,12 +26,11 @@
 
 - Telegram: [@opression](https://t.me/opression)  
 - GitHub: [github.com/opression](https://github.com/opression)  
-- Email: rafaelsupak532@gmail.com
+- Email: opression25@gmail.com
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Design-Figma-blue?style=flat-square&logo=figma" />
   <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Sport-Functional-FF6B6B?style=flat-square" />
 </p>
