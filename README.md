@@ -1,36 +1,34 @@
-<h1 align="center">👋 Привет, я Rafael Shupak</h1>
+# ~Opression~
 
----
+Привет! Меня зовут **~Opression~**, я full-stack разработчик с опытом работы в веб-разработке около **3 лет**.
 
-### 🧩 Обо мне
+За это время я успел поработать и с фронтендом, и с бэкендом, и с дизайном.
 
-Меня зовут **Rafael Shupak**, **opression**.  
-Я работаю в двух направлениях:
+### Что я умею
 
-- 🎨 **Дизайн** — создаю эстетичные и продуманные интерфейсы.  
-- 💻 **Программирование** — превращаю макеты в живой, работающий код.  
+**Фронтенд:**
+- JavaScript
+- HTML / CSS
+- Figma
+- Adobe applications (Illustrator, Photoshop и другие)
 
----
+**Бэкенд:**
+- Node.js
+- Java
+- Python
+- PostgreSQL
 
-### ⚙️ Стек технологий
+Также занимаюсь цифровым дизайном и веб-дизайном — могу как собрать интерфейс, так и нарисовать его с нуля.
 
-| Направление | Инструменты |
-|-------------|-------------|
-| **Frontend** | JavaScript, Tailwind CSS |
-| **Backend**  | Node.js, Python, PostgreSQL |
-| **Дизайн**   | Figma, Adobe Photoshop, Illustrator |
+### Опыт
 
----
+3 года в веб-разработке. Работал с разными проектами — от простых сайтов до более сложных веб-приложений. Стараюсь писать чистый код и уделять внимание деталям.
 
-### 📫 Контакты
+### Контакты
 
-- Telegram: [@opression](https://t.me/opression)  
-- GitHub: [github.com/opression](https://github.com/opression)  
-- Email: opression25@gmail.com
+- **Telegram:** [@opression](https://t.me/opression)
+- **GitHub:** [github.com/opression](https://github.com/opression)
+- **Behance:** [behance.net/opression](https://behance.net/opression)
+- **Email:** [opression25@gmail.com](mailto:opression25@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Design-Figma-blue?style=flat-square&logo=figma" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript" />
-</p>
+Если есть интересный проект или предложение — пишите, буду рад обсудить.
